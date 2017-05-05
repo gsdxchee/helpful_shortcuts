@@ -4,3 +4,13 @@ Move to or highlight to desired row
 Shift + Space (Selects whole row)
 Ctrl + X (Cuts selection)
 Ctrl + + (the plus sign, to paste)
+
+
+To change fill color:
+Alt + H + H
+
+To remove fill color:
+Alt + H + H + N
+
+To repeat last action (ie fill color):
+F4
